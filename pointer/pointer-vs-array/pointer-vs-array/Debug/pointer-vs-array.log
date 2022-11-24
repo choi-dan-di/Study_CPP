@@ -1,0 +1,4 @@
+﻿  pointer-vs-array.cpp
+D:\GitRepo\study_cpp\pointer\pointer-vs-array\pointer-vs-array\pointer-vs-array.cpp(9): warning C4172: 지역 변수 또는 임시: a의 주소를 반환하고 있습니다.
+D:\GitRepo\study_cpp\pointer\pointer-vs-array\pointer-vs-array\pointer-vs-array.cpp(14): warning C4172: 지역 변수 또는 임시: a의 주소를 반환하고 있습니다.
+  pointer-vs-array.vcxproj -> D:\GitRepo\study_cpp\pointer\pointer-vs-array\Debug\pointer-vs-array.exe
