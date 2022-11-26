@@ -1,0 +1,3 @@
+﻿  data-hiding.cpp
+D:\GitRepo\study_cpp\oop\data-hiding\data-hiding\data-hiding.cpp(103,9): warning C4101: 'car' :참조되지 않은 지역 변수입니다.
+  data-hiding.vcxproj -> D:\GitRepo\study_cpp\oop\data-hiding\Debug\data-hiding.exe
