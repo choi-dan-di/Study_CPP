@@ -1,0 +1,3 @@
+﻿  oop-finish.cpp
+D:\GitRepo\study_cpp\oop\oop-finish\oop-finish\oop-finish.cpp(80,15): warning C4101: 'tc' :참조되지 않은 지역 변수입니다.
+  oop-finish.vcxproj -> D:\GitRepo\study_cpp\oop\oop-finish\Debug\oop-finish.exe
