@@ -1,0 +1,4 @@
+﻿  function-pointer2.cpp
+D:\GitRepo\study_cpp\callback-function\function-pointer\function-pointer2\function-pointer2.cpp(56,11): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+D:\GitRepo\study_cpp\callback-function\function-pointer\function-pointer2\function-pointer2.cpp(51,11): warning C4101: 'fn2' :참조되지 않은 지역 변수입니다.
+  function-pointer2.vcxproj -> D:\GitRepo\study_cpp\callback-function\function-pointer\Debug\function-pointer2.exe
