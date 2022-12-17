@@ -1,0 +1,6 @@
+﻿  practice.cpp
+D:\GitRepo\study_cpp\STL\practice\practice\practice.cpp(26,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitRepo\study_cpp\STL\practice\practice\practice.cpp(44,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitRepo\study_cpp\STL\practice\practice\practice.cpp(61,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\GitRepo\study_cpp\STL\practice\practice\practice.cpp(72,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  practice.vcxproj -> D:\GitRepo\study_cpp\STL\practice\Debug\practice.exe
