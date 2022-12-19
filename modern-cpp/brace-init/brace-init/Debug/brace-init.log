@@ -1,3 +1,0 @@
-﻿  brace-init.cpp
-D:\GitRepo\study_cpp\modern-cpp\brace-init\brace-init\brace-init.cpp(64,12): warning C4930: 'Knight k5(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
-  brace-init.vcxproj -> D:\GitRepo\study_cpp\modern-cpp\brace-init\Debug\brace-init.exe

@@ -1,3 +1,0 @@
-﻿  rvalue-reference.cpp
-D:\GitRepo\study_cpp\modern-cpp\rvalue-reference\rvalue-reference\rvalue-reference.cpp(113,13): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
-  rvalue-reference.vcxproj -> D:\GitRepo\study_cpp\modern-cpp\rvalue-reference\Debug\rvalue-reference.exe

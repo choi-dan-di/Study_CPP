@@ -1,3 +1,0 @@
-﻿  rock-paper-scissors.cpp
-D:\GitRepo\study_cpp\flow-control\practice\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors.cpp(8,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  rock-paper-scissors.vcxproj -> D:\GitRepo\study_cpp\flow-control\practice\rock-paper-scissors\Debug\rock-paper-scissors.exe

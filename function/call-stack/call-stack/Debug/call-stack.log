@@ -1,3 +1,0 @@
-﻿  call-stack.cpp
-call-stack.obj : error LNK2019: "void __cdecl Func2(int,int)" (?Func2@@YAXHH@Z)"void __cdecl Func1(void)" (?Func1@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-D:\GitRepo\study_cpp\function\call-stack\Debug\call-stack.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
